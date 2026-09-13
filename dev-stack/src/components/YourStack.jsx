@@ -50,5 +50,3 @@ function YourStack({ stack, onRemove, onRemoveAll }) {
 }
 
 export default YourStack;
-
-
