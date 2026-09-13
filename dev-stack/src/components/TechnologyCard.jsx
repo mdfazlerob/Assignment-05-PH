@@ -33,3 +33,5 @@ function TechnologyCard({ technology, isAdded, onAdd }) {
 }
 
 export default TechnologyCard;
+
+
